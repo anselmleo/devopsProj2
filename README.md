@@ -17,6 +17,22 @@
 - Step 7: Test and Restart nginx service
 - Step 8: Launch public ip
 
+<img width="839" alt="Screen Shot 2023-04-04 at 1 34 40 PM" src="https://user-images.githubusercontent.com/30025376/229793316-67993af1-7c8a-4e88-a4b0-2ed0685191e8.png">
+
 <img width="1440" alt="Screen Shot 2023-04-02 at 5 46 05 PM" src="https://user-images.githubusercontent.com/30025376/229367086-19923c82-500c-4557-878d-242d0bc3899e.png">
 
-- Step 9: 
+- Step 9: Fix index.php download on load error
+- Step 10: Make ubuntu owner of projectlemp directory
+
+<img width="1089" alt="Screen Shot 2023-04-02 at 6 02 57 PM" src="https://user-images.githubusercontent.com/30025376/229367742-0516aea3-008c-4a60-b776-9b7c355c3087.png">
+
+- Install php-fpm and dependencies for nginx web server
+- Create symbolic link to sites-enabled from sites-available
+- Launch public IP
+
+<img width="1263" alt="Screen Shot 2023-04-04 at 3 15 45 PM" src="https://user-images.githubusercontent.com/30025376/229821952-cd71d04e-4bb1-406c-adee-e6ec34a92999.png">
+
+Viola
+
+✌️
+
